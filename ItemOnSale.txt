@@ -1,0 +1,16 @@
+false-Mouse-Wireless mouse for sale, quite new-30.0-COMPUTER-Pickup-1.5-1
+false-fan-Panasonic Fan for sale-70.0-FURNITURE-Pickup-3.5-1
+false-Lenovo laptop-Lenovo I Core 7 for sale-1200.0-COMPUTER-Pickup-180.0-1
+false-Samsung TV-LCD Screen for slae-750.0-FURNITURE-Delivery-75.0-1
+false-Hp laptop-Hp Laptop for sale I core 3 with $ GB RAM-999.0-COMPUTER-Pickup-99.9-2
+false-IPhone 6s -IPhone 6s pink color quit new-1800.0-MOBILE-Delivery-270.0-2
+false-Office chair-Office chair second hand with wheels-40.0-FURNITURE-Delivery-2.0-2
+true-Leather wallet -wallet for sale -4.0-OTHER-Pickup-.0-3
+false-Headphones-Sony headphones quite new-230.0-MOBILE-Pickup-23.0-3
+true-Sony Experia-Quit new with orginal headphone-800.0-MOBILE-Pickup-80.0-1
+true-Washing Machine-Samsung Washing machine-1300.0-FURNITURE-Delivery-195.0-1
+true-Fridge-Panasonic fridge-700.0-FURNITURE-Delivery-70.0-2
+true-Microwave oven-Sharp microwave oven-300.0-FURNITURE-Pickup-30.0-2
+true-Canon Camera-Canon camera 12MPX-3200.0-OTHER-Pickup-480.0-3
+true-Toshiba laptop-500GB Hard disk and 4GB RAM-940.0-COMPUTER-Pickup-94.0-3
+true-Blender-Blender for sale-55.0-FURNITURE-Pickup-2.75-1
